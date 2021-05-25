@@ -1,0 +1,140 @@
+.u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/952323681-01.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 457px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 111px 381px 60px 14px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 377px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 745px;
+    margin-left: 0;
+    margin-right: 195px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 275px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: auto;
+    margin-top: 59px;
+    margin-right: 41px;
+    margin-left: 17px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 206px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+}.u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/rptgtpxd-1396254731.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 457px;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 33px 115px 60px 14px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 377px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 745px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 289px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: auto;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 217px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+}.u-block-4b4f-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-4b4f-3 {
+  position: absolute;
+  left: 0;
+  width: 85px;
+  height: 85px;
+  background-image: none;
+}
+
+.u-block-4b4f-4 {
+  position: absolute;
+  right: 0;
+  width: 85px;
+  height: 85px;
+  background-image: none;
+}
